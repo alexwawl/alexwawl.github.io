@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h3 class="color-header blog-header">{{ page.title }}</h3>
+<span class="post-meta">{{ page.date | date_to_string }}</span>
+<p>
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+<!--   {% if author %}
+    - <a href="{{ author.url }}">{{ author.name }}</a>
+  {% endif %} -->
+</p>
+
+{{ content }}
