@@ -1,9 +1,0 @@
-- name: Home
-  link: /
-  icon: 🏠
-- name: Blog
-  link: /blog.html
-  icon: 📝
-- name: Play
-  link: /conways_game_of_life_teams.html
-  icon: 👾
