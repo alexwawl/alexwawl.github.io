@@ -1,0 +1,23 @@
+<section id="header">
+    <div class="row">
+        <div class="col-12 col-md-2 avatar-wrapper">
+            <a class="avatar-link" href="/">
+            	<img class="avatar" src="/assets/images/profile.jpg">
+            </a>
+        </div>
+        <div class="col-12 col-md-10 main-info-wrapper">
+           	<h1 class="main-header">Hi, I'm Alex Wawl</h1>
+        	<h4 class="main-description">Software Engineer, Maker, CrossFit Athlete.</h3>
+        	<div class="row nav-links">
+		    	{% for item in site.data.navigation %}
+				  <p>{{ item.icon }}</p> <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+				{% endfor %}
+		        <p>🐦</p> <a target="_blank" href="https://twitter.com/alexwawl">Twitter</a>
+		        <p>📷</p> <a target="_blank" href="https://instagram.com/thewawl">Instagram</a>
+		    </div>
+        </div>
+    </div>
+    <div class="row">
+		<hr class="divider"/>
+    </div>
+</section>
