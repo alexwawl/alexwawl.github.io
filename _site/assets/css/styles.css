@@ -1,6 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700&subset=cyrillic");
-.current { color: #F90473; }
-
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
 html { margin: 0; padding: 0; height: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
@@ -269,5 +267,7 @@ pre.highlight-code { padding: 0px; background-color: unset; border: none; }
 .blog-article-img { max-width: 100%; }
 
 .blog-article-img.small { max-width: 60%; }
+
+.current { color: #F90473; }
 
 .color-header { color: #fb509d; }
