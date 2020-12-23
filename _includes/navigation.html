@@ -10,10 +10,11 @@
         	<h4 class="main-description">Software Engineer, Maker, CrossFit Athlete.</h3>
         	<div class="row nav-links">
 		    	{% for item in site.data.navigation %}
-				  <p>{{ item.icon }}</p> <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+				  <span>
+                    <p>{{ item.icon }}</p>
+                    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+                  </span>
 				{% endfor %}
-		        <p>🐦</p> <a target="_blank" href="https://twitter.com/alexwawl">Twitter</a>
-		        <p>📷</p> <a target="_blank" href="https://instagram.com/thewawl">Instagram</a>
 		    </div>
         </div>
     </div>
