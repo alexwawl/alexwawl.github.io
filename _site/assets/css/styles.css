@@ -271,3 +271,5 @@ pre.highlight-code { padding: 0px; background-color: unset; border: none; }
 .current { color: #F90473; }
 
 .color-header { color: #fb509d; }
+
+.back-btn { cursor: pointer; }
