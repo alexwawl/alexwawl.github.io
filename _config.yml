@@ -22,6 +22,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 collections:
+  posts:
+    output: true
   authors:
     output: true
 defaults:
