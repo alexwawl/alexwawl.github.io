@@ -2,18 +2,12 @@
 title:  "Personal websites"
 date:   2020-12-27 19:51:45 +0000
 ---
+Recently I realized that I spent my coffee-sipping time, not on Twitter, Instagram, or Facebook but exploring personal websites. It's hard to find them, but when I've found them in most cases it's a treasure.
 
-Recently I realized that I spent most of my time not on Twitter, Instagram, or whatever but exploring personal websites.
+Yeah, making a website is harder than creating a page on Instagram. But I didn't find any personal websites with naked boobs and butts which is advertising some bullshit. Instead, I've read a lot of interesting ideas and learned new stuff. Also, in most cases, you can find very nice people behind them.
 
-Many years ago I'm hanging out on social networks and trying to find a way how to express myself. But I can't express myself fully when I have only a few ways to do it. Owning my own website gives me the opportunity to do whatever I want to do.
+One thing that I would love to have - searching/recommendation engine. Most of such good websites I found accidentally  :D 
 
-Yeah, making a website is harder than creating a page on Instagram. But I didn't find any personal websites with naked boobs and butts which is advertising some rich lifestyle shit in each post. Instead, I've read a lot of interesting ideas, found a few easter eggs, play games, etc.
-
-Finding good personal pages is hard but sometimes you'll find them and in most cases, it will be nice people behind them.
-
-By the way, That's one of the reasons why I decided to start writing and adding something to my personal page. The piece of the internet that I own:)
-
-Thanks for reading.
-
+This is my piece of the internet that I own:) Would love to see yours.
 
 (*･ｪ･)ﾉ
