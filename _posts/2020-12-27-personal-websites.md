@@ -6,7 +6,9 @@ Recently I realized that I spent my coffee-sipping time, not on Twitter, Instagr
 
 Yeah, making a website is harder than creating a page on Instagram. But I didn't find any personal websites with naked boobs and butts which is advertising some bullshit. Instead, I've read a lot of interesting ideas and learned new stuff. Also, in most cases, you can find very nice people behind them.
 
-One thing that I would love to have - searching/recommendation engine. Most of such good websites I found accidentally  :D 
+One thing that I would love to have - searching/recommendation engine. Most of such good websites I found accidentally  :D
+
+Many years ago I’m hanging out on social networks and trying to find a way how to express myself. But I can’t express myself fully when I have only a few ways to do it. Owning my own website gives me the opportunity to do whatever I want to do.
 
 This is my piece of the internet that I own:) Would love to see yours.
 
