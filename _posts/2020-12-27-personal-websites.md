@@ -3,7 +3,7 @@ title:  "Personal websites"
 date:   2020-12-27 19:51:45 +0000
 ---
 
-Recently I realized that I spent most of my time not on Twitter, Instagram, or whatever but exploring personal websites.
+Recently I realized that I spent most of my time not on Twitter, Instagram, or Facebook but exploring personal websites.
 
 Many years ago I'm hanging out on social networks and trying to find a way how to express myself. But I can't express myself fully when I have only a few ways to do it. Owning my own website gives me the opportunity to do whatever I want to do.
 
