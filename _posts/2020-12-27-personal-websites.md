@@ -8,8 +8,6 @@ Yeah, making a website is harder than creating a page on Instagram. But I didn't
 
 One thing that I would love to have - searching/recommendation engine. Most of such good websites I found accidentally  :D
 
-Many years ago I’m hanging out on social networks and trying to find a way how to express myself. But I can’t express myself fully when I have only a few ways to do it. Owning my own website gives me the opportunity to do whatever I want to do.
-
 This is my piece of the internet that I own:) Would love to see yours.
 
 (*･ｪ･)ﾉ

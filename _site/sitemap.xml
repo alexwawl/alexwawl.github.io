@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://alexwawl.com/authors/jill.html</loc>
-<lastmod>2020-12-29T10:50:42+00:00</lastmod>
+<lastmod>2020-12-30T10:56:02+00:00</lastmod>
 </url>
 <url>
 <loc>https://alexwawl.com/authors/ted.html</loc>
-<lastmod>2020-12-29T10:50:42+00:00</lastmod>
+<lastmod>2020-12-30T10:56:02+00:00</lastmod>
 </url>
 <url>
 <loc>https://alexwawl.com/jekyll/update/2020/12/21/welcome-to-jekyll.html</loc>
@@ -23,6 +23,10 @@
 <url>
 <loc>https://alexwawl.com/2020/12/27/personal-websites.html</loc>
 <lastmod>2020-12-27T19:51:45+00:00</lastmod>
+</url>
+<url>
+<loc>https://alexwawl.com/2020/12/30/dont-wait-to-start.html</loc>
+<lastmod>2020-12-30T10:23:35+00:00</lastmod>
 </url>
 <url>
 <loc>https://alexwawl.com/about.html</loc>
